@@ -322,7 +322,6 @@ DEPENDENCIES
   rspec-rails
   rubocop
   sass-rails (>= 6)
-  selenium-webdriver
   shoulda-matchers
   spring
   spring-watcher-listen (~> 2.0.0)
